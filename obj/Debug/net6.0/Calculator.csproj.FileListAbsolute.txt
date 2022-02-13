@@ -1,0 +1,5 @@
+D:\Ajuda\Cursos\C#\Cursos\Balta\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Ajuda\Cursos\C#\Cursos\Balta\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ajuda\Cursos\C#\Cursos\Balta\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Ajuda\Cursos\C#\Cursos\Balta\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Ajuda\Cursos\C#\Cursos\Balta\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
